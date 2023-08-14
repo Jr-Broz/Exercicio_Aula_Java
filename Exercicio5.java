@@ -31,10 +31,7 @@ public class Exercicio5 {
               maiorPop = aux2;
               
           }
-          
- 
-      }
-      
+      }     
         System.out.println("O país: " +  paisMaiorPop  + "Possui a maior populacao de: " + maiorPop);
     }
 }
