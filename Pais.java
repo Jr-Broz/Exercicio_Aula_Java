@@ -21,9 +21,6 @@ public class Pais {
         return this.nome;
     }
 
-
-
-
     //Populacao  
     void setPopulacao(){
         
